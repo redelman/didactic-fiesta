@@ -23,7 +23,7 @@ spec:
   uninstall:
     keepHistory: false
   values:
-    providerRegex: ^(talos-1)$
+    providerRegex: ^(talos-1|talos-2|talos-3)$
     bypassDnsResolution: true
     metrics:
       enable: true
